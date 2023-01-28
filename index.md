@@ -2,4 +2,4 @@
 金森駿です。趣味はゲーム、筋トレ、野球です。
 
 ## Graduation Work
-https://kkawailab-shiyun-main-8yjkas.streamlit.app/
+https://shun44-graduation-work-main-1y8f7m.streamlit.app/
